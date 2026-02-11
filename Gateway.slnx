@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="Directory.Packages.props" />
+  </Folder>
+  <Project Path="Common/Common.csproj" />
+  <Project Path="Gateway.AppHost/Gateway.AppHost.csproj" Id="56a274d8-6c17-4384-ab4b-cc833a8e9c76" />
+  <Project Path="Gateway.ServiceDefaults/Gateway.ServiceDefaults.csproj" />
+  <Project Path="ServiceA/ServiceA.csproj" />
+  <Project Path="ServiceB/ServiceB.csproj" />
+</Solution>
